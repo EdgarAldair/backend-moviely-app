@@ -44,6 +44,9 @@
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.1.6"
   },
+  "publishConfig": {
+    "edgaraldair:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@fastify/cors": "^8.3.0",
     "@mikro-orm/core": "^5.9.2",
